@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadHealthCheck", "SquadHealthCheck\SquadHealthCheck.csproj", "{A87A235F-2F1D-42F2-BB2D-F364AF41B9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{37F22C09-34E9-43E1-AE38-CA62967EF737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{46124053-98B4-4577-8179-15A83ABEB32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87A235F-2F1D-42F2-BB2D-F364AF41B9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87A235F-2F1D-42F2-BB2D-F364AF41B9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87A235F-2F1D-42F2-BB2D-F364AF41B9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87A235F-2F1D-42F2-BB2D-F364AF41B9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F22C09-34E9-43E1-AE38-CA62967EF737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F22C09-34E9-43E1-AE38-CA62967EF737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F22C09-34E9-43E1-AE38-CA62967EF737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F22C09-34E9-43E1-AE38-CA62967EF737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46124053-98B4-4577-8179-15A83ABEB32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46124053-98B4-4577-8179-15A83ABEB32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46124053-98B4-4577-8179-15A83ABEB32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46124053-98B4-4577-8179-15A83ABEB32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
